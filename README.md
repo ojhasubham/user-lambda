@@ -62,7 +62,7 @@ Example output:
         "id": "6d5c15d0-11be-11e8-9e1c-b326b5f13648",
         "updatedAt": 1518637021101
     }
-]%
+]
 ```
 
 ### Get one User
@@ -79,7 +79,7 @@ Example Result:
     "text": "hello delhi",
     "id": "7895fee0-11bc-11e8-be4c-c900062311df",
     "updatedAt": 1518636180942
-}%
+}
 ```
 
 ### Update a User
@@ -93,7 +93,7 @@ Example Result:
 ```bash
 {
 	"text":"new one"
-}%
+}
 ```
 
 ### Delete a User
@@ -106,5 +106,5 @@ Example Result:
 ```bash
 {
     "message": "user deleted successfully"
-}%
+}
 ```
